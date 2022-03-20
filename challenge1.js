@@ -4,7 +4,7 @@
  * - that just prints your name on the screen
  */
 function printName (){
-console.log("Fouz tala aleifan");
+console.log("Fouz talal aleifan");
 }
 /**
  * Task 2:
